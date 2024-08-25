@@ -3,12 +3,12 @@ CAPSTONE 2
 # Supermarket Customer Analysis - Capstone Project
 
 ## 📄 Deskripsi Proyek
-Proyek ini merupakan bagian dari Capstone Project pada [Your Institution]. Fokus dari proyek ini adalah untuk menganalisis perilaku pelanggan supermarket pasca-pandemi, mengidentifikasi segmen pelanggan kunci, dan mengusulkan strategi adaptasi untuk menghadapi krisis ekonomi di masa depan.
+Proyek ini merupakan bagian dari Capstone Project pada [Purwadhika Digital Technology School]. Fokus dari proyek ini adalah untuk menganalisis perilaku pelanggan supermarket pasca-pandemi, mengidentifikasi segmen pelanggan kunci, dan mengusulkan strategi adaptasi untuk menghadapi krisis ekonomi di masa depan. 
 
 ## 🎯 Tujuan Proyek
 - **Analisis Perilaku Pelanggan:** Memahami perubahan preferensi belanja pelanggan setelah pandemi COVID-19.
 - **Segmentasi Pelanggan:** Mengelompokkan pelanggan berdasarkan kebutuhan dan kebiasaan belanja mereka.
-- **Strategi Adaptasi:** Mengembangkan strategi untuk meningkatkan ketahanan supermarket terhadap krisis ekonomi di masa depan.
+- **Strategi Adaptasi:** Mengembangkan strategi untuk meningkatkan ketahanan supermarket terhadap krisis ekonomi di masa depan sekaligus Memberikan rekomendasi taktis untuk supermarket dalam beradaptasi dengan tren pasar.
 
 ## 🔍 Fitur Utama
 - **Perubahan Perilaku Pelanggan:** Analisis data belanja untuk mengidentifikasi perubahan pola belanja pelanggan.
@@ -32,6 +32,11 @@ Proyek ini merupakan bagian dari Capstone Project pada [Your Institution]. Fokus
     ```bash
     jupyter notebook CAPSTONE\ 2\ --\ BAB\ 1.ipynb
     ```
+    
+## Teknologi yang Digunakan
+- Python
+- Jupyter Notebook
+- Libraries: Pandas, Matplotlib, Scikit-learn
 
 ## 🚀 Cara Menggunakan
 - Buka file Jupyter Notebook `CAPSTONE 2 -- BAB 1.ipynb` untuk mengeksplorasi analisis dan wawasan yang dihasilkan dari data supermarket.
